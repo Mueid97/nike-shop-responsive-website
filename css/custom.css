@@ -1,0 +1,27 @@
+.bg-nav-bacground{
+    background-color: #fff9f4;
+}
+.orange-color{
+    color: orange;
+}
+
+.shop-now{
+    border: none;
+    width: 170px;
+    height: 50px;
+    color: white;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.shoes-bg{
+    box-shadow: 5px 5px 20px gainsboro;
+    border-radius: 15px;
+    padding: 10px;
+  
+}
+
+.shoes-bg img{
+    background-color: #f1f1f1;
+    border-radius: 15px;
+    height: 300px;
+}
